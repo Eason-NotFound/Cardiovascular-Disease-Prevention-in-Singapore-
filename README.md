@@ -83,3 +83,8 @@ Data preprocessing includes:
 
 This project was completed for academic and research purposes.
 
+---
+
+## Data Source
+https://www.kaggle.com/datasets/oktayrdeki/heart-disease?resource=download
+
